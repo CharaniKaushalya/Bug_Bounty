@@ -1,0 +1,6 @@
+By creating this software,
+    Users can submit bugs, 
+    track those bugs, 
+    and get feedback.
+ This is hugely beneficial for business purposes, as responses to those bugs can drive software development and quality 
+ improvement.
